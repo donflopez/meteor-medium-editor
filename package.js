@@ -1,7 +1,7 @@
 Package.describe({
 	name: "donflopez:medium-editor",
 	summary: "Add medium-editor clone to Meteor client side",
-	version: "1.0.0"
+	version: "1.0.1"
 });
 
 Package.on_use(function (api) {
